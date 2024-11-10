@@ -1,0 +1,1 @@
+print("bug.py's __name__:", __name__)
